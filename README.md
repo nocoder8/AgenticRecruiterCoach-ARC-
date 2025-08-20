@@ -1,0 +1,3 @@
+# Agentic Recruiter Coach (ARC)
+
+An automated Google Apps Script system that monitors recruiter AI interview adoption rates and sends personalized nudges to improve performance. Tracks historical vs recent (14-day) AI usage metrics from Google Sheets data, identifies candidates who missed AI interviews, and generates GPT-powered personalized emails with performance dashboards. Features include blacklist management, 7-day cooldown periods, weekend exclusions, and automated daily triggers at 1 PM. Targets 80% AI interview adoption rate with professional, data-driven coaching messages. Built for Eightfold.ai recruitment team optimization.
