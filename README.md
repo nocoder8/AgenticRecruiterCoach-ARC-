@@ -31,6 +31,9 @@ ARC is designed to increase AI interview adoption rates among recruiters by prov
 - **Missed Candidates Table**: Detailed list of opportunities
 - **Mobile-Friendly**: Optimized for all devices
 
+- <img width="1162" height="1374" alt="image (6)" src="https://github.com/user-attachments/assets/85244492-b81b-4995-8828-dbee58abb29b" />
+
+
 ## 🏗️ Architecture
 
 ### Core Components
